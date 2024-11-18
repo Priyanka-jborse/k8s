@@ -1,4 +1,0 @@
-apiVersion: v2
-name: my-chart
-version: 1.2.0  # This is the chart version
-
